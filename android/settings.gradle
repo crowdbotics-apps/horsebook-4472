@@ -1,0 +1,3 @@
+rootProject.name = 'horsebook_4472'
+
+include ':app'
